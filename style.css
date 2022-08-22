@@ -1,0 +1,40 @@
+.black {
+  background-color: black;
+}
+#header-item {
+  font-family: "Berkshire Swash";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 76px;
+  line-height: 94px;
+  text-align: center;
+  text-transform: capitalize;
+
+  color: #ff5e19;
+}
+.card-img-top {
+  width: 264px;
+  height: 204px;
+}
+.col-8 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+.mt-5 {
+  margin-top: 200px;
+}
+.select-item h4 {
+  color: #888888;
+  margin-left: 30px;
+}
+.inline {
+  display: inline;
+}
+.input-1 {
+  width: 121px;
+  height: 42px;
+}
+label {
+  color: white;
+}
