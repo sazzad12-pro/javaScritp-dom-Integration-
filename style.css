@@ -38,7 +38,7 @@
 label {
   color: white;
 }
-#total-expensive {
+#dolar {
   margin-left: 150px;
 }
 #Coach-filed {
@@ -50,4 +50,14 @@ label {
 #calculate {
   width: 185px;
   margin-left: 78px;
+}
+#calculate-total {
+  width: 185px;
+  margin-left: 78px;
+}
+#dolar-sing {
+  margin-left: 20px;
+}
+.player {
+  margin-bottom: 20px;
 }
